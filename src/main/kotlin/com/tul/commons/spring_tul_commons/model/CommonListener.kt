@@ -1,7 +1,5 @@
-package com.tul.sales.hunters.model.abstracts
+package com.tul.commons.spring_tul_commons.model
 
-import com.tul.sales.hunters.model.abstracts.BaseModel
-import com.tul.sales.hunters.model.abstracts.TuLCodeSetter
 import org.springframework.stereotype.Component
 import javax.persistence.PrePersist
 
