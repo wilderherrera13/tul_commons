@@ -1,4 +1,4 @@
-package com.tul.sales.hunters.model.abstracts
+package com.tul.commons.spring_tul_commons.model
 
 import org.springframework.data.annotation.CreatedDate
 import org.springframework.data.annotation.LastModifiedDate
